@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto
+pytgcalls==1.2.5
+aiohttp
+asyncio
+pydub
+yt-dlp
+requests
+
